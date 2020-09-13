@@ -4,5 +4,7 @@
 Já fiz bastante coisa no back-end, mas o front-end é o meu lugar! ❤️ Amante de fotografia, meme e burguinhos. Conto piada de tiozão no meio da planning e gosto de dar pitaco nas coisas.
 
 👨🏻‍💻Desenvolvedor Web na Cmv Solutions
+
 👨🏻‍🎓 Formado em Engenharia Elétrica pela UNIP
+
 📚 Estudante de inglês, photoshop e React
