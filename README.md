@@ -7,6 +7,7 @@ Já fiz bastante coisa no back-end, mas o front-end é o meu lugar! ❤️ Amant
 
 👨🏻‍💻Desenvolvedor Web na Totvs
 
-👨🏻‍🎓 Formado em Engenharia Elétrica pela UNIP
+👨🏻‍🎓 Cursando MBA Fullstack Development na FIAP
+   Formado em Engenharia Elétrica pela UNIP
 
 📚 Estudante de inglês, photoshop e React
